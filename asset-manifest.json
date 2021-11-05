@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rleebi-landing-page/static/css/main.0f5cf89f.chunk.css",
-    "main.js": "/rleebi-landing-page/static/js/main.8e7c412c.chunk.js",
-    "main.js.map": "/rleebi-landing-page/static/js/main.8e7c412c.chunk.js.map",
+    "main.js": "/rleebi-landing-page/static/js/main.44ee2668.chunk.js",
+    "main.js.map": "/rleebi-landing-page/static/js/main.44ee2668.chunk.js.map",
     "runtime-main.js": "/rleebi-landing-page/static/js/runtime-main.c95f6fab.js",
     "runtime-main.js.map": "/rleebi-landing-page/static/js/runtime-main.c95f6fab.js.map",
     "static/js/2.ac1a137d.chunk.js": "/rleebi-landing-page/static/js/2.ac1a137d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c95f6fab.js",
     "static/js/2.ac1a137d.chunk.js",
     "static/css/main.0f5cf89f.chunk.css",
-    "static/js/main.8e7c412c.chunk.js"
+    "static/js/main.44ee2668.chunk.js"
   ]
 }
