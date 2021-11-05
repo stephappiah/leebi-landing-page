@@ -16,13 +16,13 @@ export default function Hero() {
   }, []);
 
   return (
-    <div className="py-12 bg-primary">
+    <div className="py-12 bg-green-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center sm:px-8 md:px-48">
           <p className="mt-2 text-5xl p-4 leading-snug font-light tracking-tight text-center text-gray-900">
             <span>We're flipping the way people </span>
 
-            <span className="text-yellow-900">
+            <span className="text-green-800">
               <TextTransition
                 text={TEXTS[index % TEXTS.length]}
                 springConfig={presets.wobbly}

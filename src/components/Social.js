@@ -20,10 +20,10 @@ export default function Social() {
               src={RocketImage}
               alt="Workflow"
             />
-            <p className="mt-6 text-left text-3xl font-thin text-gray-700">
+            <p className="mt-6 text-center text-3xl font-thin text-black">
               Be a part of our journey as we build from the ground up!
             </p>
-            <p className="mt-5 text-left text-sm text-gray-600">
+            <p className="mt-5 text-center text-sm text-green-800">
               early access. seed investing. project updates.
             </p>
           </div>

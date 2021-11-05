@@ -55,7 +55,7 @@ const CustomForm = ({ status, message, onValidated }) => {
 
       <div className="lg:w-auto mx-auto mt-8">
         <button
-          className={`flex justify-center items-center mx-auto px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-black`}
+          className={`flex justify-center items-center mx-auto px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-green-800`}
           onClick={submit}
         >
           {status === "sending" && (
@@ -65,7 +65,7 @@ const CustomForm = ({ status, message, onValidated }) => {
           {btnText}
         </button>
 
-        <p className="mt-4 text-center text-gray-400 text-xs">
+        <p className="mt-4 text-center text-gray-700 text-xs">
           *we hate spams too. we got you!
         </p>
       </div>
