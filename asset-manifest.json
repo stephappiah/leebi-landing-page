@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stephappiah.github.io/landing_app/static/css/main.0f5cf89f.chunk.css",
-    "main.js": "/stephappiah.github.io/landing_app/static/js/main.e62a2f1e.chunk.js",
-    "main.js.map": "/stephappiah.github.io/landing_app/static/js/main.e62a2f1e.chunk.js.map",
+    "main.js": "/stephappiah.github.io/landing_app/static/js/main.cab2fb7b.chunk.js",
+    "main.js.map": "/stephappiah.github.io/landing_app/static/js/main.cab2fb7b.chunk.js.map",
     "runtime-main.js": "/stephappiah.github.io/landing_app/static/js/runtime-main.0b918ff4.js",
     "runtime-main.js.map": "/stephappiah.github.io/landing_app/static/js/runtime-main.0b918ff4.js.map",
     "static/js/2.6ba42468.chunk.js": "/stephappiah.github.io/landing_app/static/js/2.6ba42468.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0b918ff4.js",
     "static/js/2.6ba42468.chunk.js",
     "static/css/main.0f5cf89f.chunk.css",
-    "static/js/main.e62a2f1e.chunk.js"
+    "static/js/main.cab2fb7b.chunk.js"
   ]
 }
