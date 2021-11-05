@@ -53,9 +53,9 @@ const CustomForm = ({ status, message, onValidated }) => {
 
       {/* buttons */}
 
-      <div className="lg:w-auto mx-auto mt-8">
+      <div className="w-auto mx-auto mt-5">
         <button
-          className={`flex justify-center items-center mx-auto px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-green-800`}
+          className={`flex relative w-full justify-center items-center mx-auto px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-green-800`}
           onClick={submit}
         >
           {status === "sending" && (
