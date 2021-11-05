@@ -7,7 +7,7 @@ import CustomForm from './CustomForm';
 export default class Demo extends Component {
     render() {
       const url =
-        `https://leebi.us20.list-manage.com/subscribe/post?u=${process.env.MAILCHIMP_U}&amp;id=${process.env.MAILCHIMP_ID}`; // hide secrets in prod
+        `https://leebi.us20.list-manage.com/subscribe/post?u=${process.env.REACT_APP_MAILCHIMP_U}&amp;id=${process.env.REACT_APP_MAILCHIMP_ID}`; // hide secrets in prod
       return (
         <div>
           
