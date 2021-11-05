@@ -1,4 +1,5 @@
 import MailchimpFormContainer from "./MailchimpFormContainer";
+import RocketImage from '../img/rocket.jpg'
 
 export default function Social() {
   return (
@@ -16,7 +17,7 @@ export default function Social() {
           <div>
             <img
               className="mx-auto w-3/5 h-3/5"
-              src="/rocket.jpg"
+              src={RocketImage}
               alt="Workflow"
             />
             <p className="mt-6 text-left text-3xl font-thin text-gray-700">
