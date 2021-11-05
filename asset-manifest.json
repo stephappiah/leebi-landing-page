@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/leebi-landing-page/static/css/main.0f5cf89f.chunk.css",
-    "main.js": "/leebi-landing-page/static/js/main.4b2f513e.chunk.js",
-    "main.js.map": "/leebi-landing-page/static/js/main.4b2f513e.chunk.js.map",
+    "main.js": "/leebi-landing-page/static/js/main.2bcd2ca6.chunk.js",
+    "main.js.map": "/leebi-landing-page/static/js/main.2bcd2ca6.chunk.js.map",
     "runtime-main.js": "/leebi-landing-page/static/js/runtime-main.d3d2a9b1.js",
     "runtime-main.js.map": "/leebi-landing-page/static/js/runtime-main.d3d2a9b1.js.map",
     "static/js/2.26be1893.chunk.js": "/leebi-landing-page/static/js/2.26be1893.chunk.js",
     "static/js/2.26be1893.chunk.js.map": "/leebi-landing-page/static/js/2.26be1893.chunk.js.map",
     "index.html": "/leebi-landing-page/index.html",
     "static/css/main.0f5cf89f.chunk.css.map": "/leebi-landing-page/static/css/main.0f5cf89f.chunk.css.map",
-    "static/js/2.26be1893.chunk.js.LICENSE.txt": "/leebi-landing-page/static/js/2.26be1893.chunk.js.LICENSE.txt"
+    "static/js/2.26be1893.chunk.js.LICENSE.txt": "/leebi-landing-page/static/js/2.26be1893.chunk.js.LICENSE.txt",
+    "static/media/rocket.d1447b8e.jpg": "/leebi-landing-page/static/media/rocket.d1447b8e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d3d2a9b1.js",
     "static/js/2.26be1893.chunk.js",
     "static/css/main.0f5cf89f.chunk.css",
-    "static/js/main.4b2f513e.chunk.js"
+    "static/js/main.2bcd2ca6.chunk.js"
   ]
 }
