@@ -3,7 +3,7 @@ import { RefreshIcon } from "@heroicons/react/outline";
 
 // a basic form
 const CustomForm = ({ status, message, onValidated }) => {
-  const [btnText, setBtnText] = useState("Join the waitlist");
+  const [btnText] = useState("Join the waitlist");
 
   let email;
   const submit = () =>
