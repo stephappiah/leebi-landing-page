@@ -66,7 +66,7 @@ const CustomForm = ({ status, message, onValidated }) => {
         </button>
 
         <p className="mt-4 text-center text-gray-700 text-xs">
-          *we hate spams too. we got you!
+          *no one likes spams. we got you!
         </p>
       </div>
     </div>

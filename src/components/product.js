@@ -8,9 +8,9 @@ import Img4 from '../img/img-4.jpg'
 
 /* This example requires Tailwind CSS v2.0+ */
 const features = [
-    { name: 'Easy rent', description: 'We are making moving a little less painful with our technology.' },
-    { name: 'Manage real estate business', description: 'Reduce all the friction that comes with managing a real estate business.' },
-    { name: 'Invest in homes.', description: 'We are building for people who want to invest in real estate properties with low capital.' },
+    { name: 'Easy rent.', description: 'We are making apartment & home search easy techie.' },
+    { name: 'Manage real estate business.', description: 'Reduce all the friction that comes with managing a real estate business.' },
+    { name: 'Invest in homes.', description: 'We are building for people who want to invest in real estate properties, but with low capital.' },
     // { name: 'Finish', description: 'Hand sanded and finished with natural oil' },
     // { name: 'Includes', description: 'Wood card tray and 3 refill packs' },
     // { name: 'Considerations', description: 'Made from natural materials. Grain and color vary with each item.' },
@@ -24,7 +24,7 @@ const features = [
         <div className="max-w-2xl mx-auto py-24 px-4 grid items-center grid-cols-1 gap-y-16 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-2">
           <div>
             <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">Simple is better.</h2>
-            <p className="mt-4 text-gray-500">
+            <p className="mt-4 text-gray-600">
               We are building for you. Here's what we have in mind. 
             </p>
   
@@ -32,7 +32,7 @@ const features = [
               {features.map((feature) => (
                 <div key={feature.name} className="border-t border-gray-200 pt-4">
                   <dt className="font-medium text-gray-900">{feature.name}</dt>
-                  <dd className="mt-2 text-sm text-gray-500">{feature.description}</dd>
+                  <dd className="mt-2 text-sm text-gray-600">{feature.description}</dd>
                 </div>
               ))}
             </dl>
