@@ -45,7 +45,7 @@ const CustomForm = ({ status, message, onValidated }) => {
             type="email"
             autoComplete="email"
             required
-            className="appearance-none rounded-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-t-md focus:outline-none focus:ring-gray-500 focus:border-gray-500 focus:z-10 sm:text-sm"
+            className="appearance-none rounded-none relative block w-full px-3 py-3 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-t-md focus:outline-none focus:ring-gray-500 focus:border-gray-500 focus:z-10 sm:text-sm"
             placeholder="Email address"
           />
         </div>
@@ -55,7 +55,7 @@ const CustomForm = ({ status, message, onValidated }) => {
 
       <div className="w-auto mx-auto mt-5">
         <button
-          className={`flex relative w-full justify-center items-center mx-auto px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-green-800`}
+          className={`flex relative w-full justify-center items-center mx-auto px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-black`}
           onClick={submit}
         >
           {status === "sending" && (

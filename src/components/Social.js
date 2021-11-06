@@ -1,5 +1,5 @@
 import MailchimpFormContainer from "./MailchimpFormContainer";
-import RocketImage from '../img/rocket.jpg'
+// import RocketImage from '../img/rocket.jpg'
 
 export default function Social() {
   return (
@@ -12,19 +12,15 @@ export default function Social() {
         <body class="h-full">
         ```
       */}
-      <div className="min-h-full flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
+      <div className="min-h-full flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8" id='waitlist'>
         <div className="max-w-md w-full space-y-8">
           <div>
-            <img
-              className="mx-auto w-3/5 h-3/5"
-              src={RocketImage}
-              alt="Workflow"
-            />
-            <p className="mt-6 text-center text-3xl font-thin text-black">
+            <p className='text-3xl text-center font-extrabold tracking-tight text-gray-900 sm:text-4xl'>Get on board.</p>
+            <p className="text-center text-xl mt-4 text-gray-900">
               Be a part of our journey as we build from the ground up!
             </p>
-            <p className="mt-5 text-center text-sm text-green-800">
-              early access. seed investing. project updates.
+            <p className="mt-5 text-center text-sm text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
+              Early access. Seed investing. Project updates.
             </p>
           </div>
         

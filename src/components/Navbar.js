@@ -15,7 +15,7 @@ function classNames(...classes) {
 
 export default function Navbar() {
   return (
-    <Disclosure as="nav" className="bg-green-50">
+    <Disclosure as="nav" className="sticky top-0 z-50 bg-white">
       {({ open }) => (
         <>
           <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
@@ -34,7 +34,7 @@ export default function Navbar() {
               <div className="flex-1 flex items-center tracking-tighter justify-center sm:items-stretch sm:justify-start">
                 {/* logo name */}
                 <div className="absolute left-0 pl-2 inset-y-0 flex-shrink-0 flex items-center">
-                  <p className='text-black-600 font-bold leading-8 subpixel-antialiased text-3xl'>Leebi.co</p>
+                  <p className='text-black-600 font-normal leading-8 subpixel-antialiased text-2xl'>Leebi.co</p>
                 </div>
                 <div className="hidden sm:block sm:ml-6">
                   <div className="flex absolute inset-y-0 items-center flex-shrink-0 right-0 pl-2  space-x-4">
