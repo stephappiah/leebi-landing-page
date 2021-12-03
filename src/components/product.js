@@ -2,6 +2,7 @@ import Img1 from '../img/img-1.jpg'
 import Img2 from '../img/img-2.jpg'
 import Img3 from '../img/img-3.jpg'
 import Img4 from '../img/img-4.jpg'
+import React from "react";
 
 
 

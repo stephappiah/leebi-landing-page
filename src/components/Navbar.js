@@ -1,6 +1,7 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { Disclosure } from "@headlessui/react";
 import { MenuAlt3Icon, XIcon } from "@heroicons/react/outline";
+import React from "react";
 
 const navigation = [
   { name: "Dashboard", href: "#page", current: true },

@@ -1,5 +1,6 @@
 import MailchimpFormContainer from "./MailchimpFormContainer";
 // import RocketImage from '../img/rocket.jpg'
+import React from "react";
 
 export default function Social() {
   return (
