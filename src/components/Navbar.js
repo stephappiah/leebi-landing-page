@@ -35,7 +35,7 @@ export default function Navbar() {
               <div className="flex-1 flex items-center tracking-tighter justify-center sm:items-stretch sm:justify-start">
                 {/* logo name */}
                 <div className="absolute left-0 pl-2 inset-y-0 flex-shrink-0 flex items-center">
-                  <p className='text-black-600 font-normal leading-8 subpixel-antialiased text-2xl'>Leebi.co</p>
+                  <p className='text-black-600 font-normal leading-8 subpixel-antialiased text-2xl'>SplitterPay</p>
                 </div>
                 <div className="hidden sm:block sm:ml-6">
                   <div className="flex absolute inset-y-0 items-center flex-shrink-0 right-0 pl-2  space-x-4">
